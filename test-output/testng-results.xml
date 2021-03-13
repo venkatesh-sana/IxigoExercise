@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Home page title verified]]>
+    </line>
+    <line>
+      <![CDATA[Search results page verified]]>
+    </line>
+    <line>
+      <![CDATA[Stop filter verified]]>
+    </line>
+    <line>
+      <![CDATA[Departure filter verfied]]>
+    </line>
+    <line>
+      <![CDATA[Airlines filter verified]]>
+    </line>
+    <line>
+      <![CDATA[Flight No :: I5741  ]]>
+    </line>
+    <line>
+      <![CDATA[Departure Time:: 11:10  ]]>
+    </line>
+    <line>
+      <![CDATA[Fare:: 3570  ]]>
+    </line>
+    <line>
+      <![CDATA[Flight No :: I5722  ]]>
+    </line>
+    <line>
+      <![CDATA[Departure Time:: 23:55  ]]>
+    </line>
+    <line>
+      <![CDATA[Fare:: 3570  ]]>
+    </line>
+    <line>
+      <![CDATA[Flight No :: G8118  ]]>
+    </line>
+    <line>
+      <![CDATA[Departure Time:: 21:00  ]]>
+    </line>
+    <line>
+      <![CDATA[Fare:: 4578  ]]>
+    </line>
+    <line>
+      <![CDATA[Flight No :: SG136  ]]>
+    </line>
+    <line>
+      <![CDATA[Departure Time:: 05:55  ]]>
+    </line>
+    <line>
+      <![CDATA[Fare:: 4578  ]]>
+    </line>
+    <line>
+      <![CDATA[Flight No :: 6E869  ]]>
+    </line>
+    <line>
+      <![CDATA[Departure Time:: 12:15  ]]>
+    </line>
+    <line>
+      <![CDATA[Fare:: 4578  ]]>
+    </line>
+    <line>
+      <![CDATA[Flight No :: 6E2215  ]]>
+    </line>
+    <line>
+      <![CDATA[Departure Time:: 21:30  ]]>
+    </line>
+    <line>
+      <![CDATA[Fare:: 4578  ]]>
+    </line>
+    <line>
+      <![CDATA[Flight No :: 6E2174  ]]>
+    </line>
+    <line>
+      <![CDATA[Departure Time:: 17:40  ]]>
+    </line>
+    <line>
+      <![CDATA[Fare:: 4578  ]]>
+    </line>
+    <line>
+      <![CDATA[Flight No :: I5996  ]]>
+    </line>
+    <line>
+      <![CDATA[Departure Time:: 19:30  ]]>
+    </line>
+    <line>
+      <![CDATA[Fare:: 4578  ]]>
+    </line>
+    <line>
+      <![CDATA[Flight No :: I5925  ]]>
+    </line>
+    <line>
+      <![CDATA[Departure Time:: 04:55  ]]>
+    </line>
+    <line>
+      <![CDATA[Fare:: 4578  ]]>
+    </line>
+    <line>
+      <![CDATA[Flight No :: 6E735  ]]>
+    </line>
+    <line>
+      <![CDATA[Departure Time:: 19:20  ]]>
+    </line>
+    <line>
+      <![CDATA[Fare:: 4578  ]]>
+    </line>
+    <line>
+      <![CDATA[Flight No :: 6E5413  ]]>
+    </line>
+    <line>
+      <![CDATA[Departure Time:: 20:05  ]]>
+    </line>
+    <line>
+      <![CDATA[Fare:: 4578  ]]>
+    </line>
+    <line>
+      <![CDATA[Flight No :: 6E2186  ]]>
+    </line>
+    <line>
+      <![CDATA[Departure Time:: 07:50  ]]>
+    </line>
+    <line>
+      <![CDATA[Fare:: 4578  ]]>
+    </line>
+    <line>
+      <![CDATA[Flight No :: SG8906  ]]>
+    </line>
+    <line>
+      <![CDATA[Departure Time:: 23:55  ]]>
+    </line>
+    <line>
+      <![CDATA[Fare:: 4578  ]]>
+    </line>
+    <line>
+      <![CDATA[Flight No :: 6E5161  ]]>
+    </line>
+    <line>
+      <![CDATA[Departure Time:: 16:15  ]]>
+    </line>
+    <line>
+      <![CDATA[Fare:: 4578  ]]>
+    </line>
+    <line>
+      <![CDATA[Flight No :: 6E5708  ]]>
+    </line>
+    <line>
+      <![CDATA[Departure Time:: 06:35  ]]>
+    </line>
+    <line>
+      <![CDATA[Fare:: 4578  ]]>
+    </line>
+    <line>
+      <![CDATA[Flight No :: SG198  ]]>
+    </line>
+    <line>
+      <![CDATA[Departure Time:: 20:25  ]]>
+    </line>
+    <line>
+      <![CDATA[Fare:: 4578  ]]>
+    </line>
+    <line>
+      <![CDATA[Flight No :: 6E2018  ]]>
+    </line>
+    <line>
+      <![CDATA[Departure Time:: 05:10  ]]>
+    </line>
+    <line>
+      <![CDATA[Fare:: 4578  ]]>
+    </line>
+    <line>
+      <![CDATA[Flight No :: SG8192  ]]>
+    </line>
+    <line>
+      <![CDATA[Departure Time:: 09:20  ]]>
+    </line>
+    <line>
+      <![CDATA[Fare:: 4578  ]]>
+    </line>
+    <line>
+      <![CDATA[Flight No :: G8116  ]]>
+    </line>
+    <line>
+      <![CDATA[Departure Time:: 07:45  ]]>
+    </line>
+    <line>
+      <![CDATA[Fare:: 5812  ]]>
+    </line>
+    <line>
+      <![CDATA[Flight No :: I5721  ]]>
+    </line>
+    <line>
+      <![CDATA[Departure Time:: 20:45  ]]>
+    </line>
+    <line>
+      <![CDATA[Fare:: 3570  ]]>
+    </line>
+    <line>
+      <![CDATA[Flight No :: I5740  ]]>
+    </line>
+    <line>
+      <![CDATA[Departure Time:: 07:55  ]]>
+    </line>
+    <line>
+      <![CDATA[Fare:: 3570  ]]>
+    </line>
+    <line>
+      <![CDATA[Flight No :: 6E5174  ]]>
+    </line>
+    <line>
+      <![CDATA[Departure Time:: 05:15  ]]>
+    </line>
+    <line>
+      <![CDATA[Fare:: 5677  ]]>
+    </line>
+    <line>
+      <![CDATA[Flight No :: 6E781  ]]>
+    </line>
+    <line>
+      <![CDATA[Departure Time:: 16:30  ]]>
+    </line>
+    <line>
+      <![CDATA[Fare:: 5677  ]]>
+    </line>
+    <line>
+      <![CDATA[Flight No :: 6E6233  ]]>
+    </line>
+    <line>
+      <![CDATA[Departure Time:: 02:25  ]]>
+    </line>
+    <line>
+      <![CDATA[Fare:: 5677  ]]>
+    </line>
+    <line>
+      <![CDATA[Flight No :: 6E798  ]]>
+    </line>
+    <line>
+      <![CDATA[Departure Time:: 23:15  ]]>
+    </line>
+    <line>
+      <![CDATA[Fare:: 5677  ]]>
+    </line>
+    <line>
+      <![CDATA[Flight No :: 6E2015  ]]>
+    </line>
+    <line>
+      <![CDATA[Departure Time:: 19:55  ]]>
+    </line>
+    <line>
+      <![CDATA[Fare:: 5677  ]]>
+    </line>
+    <line>
+      <![CDATA[Flight No :: 6E681  ]]>
+    </line>
+    <line>
+      <![CDATA[Departure Time:: 13:00  ]]>
+    </line>
+    <line>
+      <![CDATA[Fare:: 5677  ]]>
+    </line>
+    <line>
+      <![CDATA[Flight No :: 6E772  ]]>
+    </line>
+    <line>
+      <![CDATA[Departure Time:: 07:10  ]]>
+    </line>
+    <line>
+      <![CDATA[Fare:: 5677  ]]>
+    </line>
+    <line>
+      <![CDATA[Flight No :: 6E2637  ]]>
+    </line>
+    <line>
+      <![CDATA[Departure Time:: 18:45  ]]>
+    </line>
+    <line>
+      <![CDATA[Fare:: 5677  ]]>
+    </line>
+    <line>
+      <![CDATA[Flight No :: SG8191  ]]>
+    </line>
+    <line>
+      <![CDATA[Departure Time:: 06:30  ]]>
+    </line>
+    <line>
+      <![CDATA[Fare:: 5678  ]]>
+    </line>
+    <line>
+      <![CDATA[Flight No :: I5784  ]]>
+    </line>
+    <line>
+      <![CDATA[Departure Time:: 16:05  ]]>
+    </line>
+    <line>
+      <![CDATA[Fare:: 5678  ]]>
+    </line>
+    <line>
+      <![CDATA[Flight No :: I5926  ]]>
+    </line>
+    <line>
+      <![CDATA[Departure Time:: 09:15  ]]>
+    </line>
+    <line>
+      <![CDATA[Fare:: 5678  ]]>
+    </line>
+    <line>
+      <![CDATA[Flight No :: SG8905  ]]>
+    </line>
+    <line>
+      <![CDATA[Departure Time:: 20:35  ]]>
+    </line>
+    <line>
+      <![CDATA[Fare:: 5678  ]]>
+    </line>
+    <line>
+      <![CDATA[Flight No :: G8113  ]]>
+    </line>
+    <line>
+      <![CDATA[Departure Time:: 05:50  ]]>
+    </line>
+    <line>
+      <![CDATA[Fare:: 5678  ]]>
+    </line>
+    <line>
+      <![CDATA[Flight No :: SG143  ]]>
+    </line>
+    <line>
+      <![CDATA[Departure Time:: 21:45  ]]>
+    </line>
+    <line>
+      <![CDATA[Fare:: 5678  ]]>
+    </line>
+    <line>
+      <![CDATA[Flight No :: SG197  ]]>
+    </line>
+    <line>
+      <![CDATA[Departure Time:: 16:35  ]]>
+    </line>
+    <line>
+      <![CDATA[Fare:: 5678  ]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25480" started-at="2021-03-13T06:42:52Z" finished-at="2021-03-13T06:43:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25480" started-at="2021-03-13T06:42:52Z" finished-at="2021-03-13T06:43:17Z">
+      <class name="com.ixigo.TestScripts.FlightSearch">
+        <test-method status="PASS" signature="flightSearch()[pri:0, instance:com.ixigo.TestScripts.FlightSearch@c038203]" name="flightSearch" duration-ms="25456" started-at="2021-03-13T12:12:52Z" finished-at="2021-03-13T12:13:17Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Home page title verified]]>
+            </line>
+            <line>
+              <![CDATA[Search results page verified]]>
+            </line>
+            <line>
+              <![CDATA[Stop filter verified]]>
+            </line>
+            <line>
+              <![CDATA[Departure filter verfied]]>
+            </line>
+            <line>
+              <![CDATA[Airlines filter verified]]>
+            </line>
+            <line>
+              <![CDATA[Flight No :: I5741  ]]>
+            </line>
+            <line>
+              <![CDATA[Departure Time:: 11:10  ]]>
+            </line>
+            <line>
+              <![CDATA[Fare:: 3570  ]]>
+            </line>
+            <line>
+              <![CDATA[Flight No :: I5722  ]]>
+            </line>
+            <line>
+              <![CDATA[Departure Time:: 23:55  ]]>
+            </line>
+            <line>
+              <![CDATA[Fare:: 3570  ]]>
+            </line>
+            <line>
+              <![CDATA[Flight No :: G8118  ]]>
+            </line>
+            <line>
+              <![CDATA[Departure Time:: 21:00  ]]>
+            </line>
+            <line>
+              <![CDATA[Fare:: 4578  ]]>
+            </line>
+            <line>
+              <![CDATA[Flight No :: SG136  ]]>
+            </line>
+            <line>
+              <![CDATA[Departure Time:: 05:55  ]]>
+            </line>
+            <line>
+              <![CDATA[Fare:: 4578  ]]>
+            </line>
+            <line>
+              <![CDATA[Flight No :: 6E869  ]]>
+            </line>
+            <line>
+              <![CDATA[Departure Time:: 12:15  ]]>
+            </line>
+            <line>
+              <![CDATA[Fare:: 4578  ]]>
+            </line>
+            <line>
+              <![CDATA[Flight No :: 6E2215  ]]>
+            </line>
+            <line>
+              <![CDATA[Departure Time:: 21:30  ]]>
+            </line>
+            <line>
+              <![CDATA[Fare:: 4578  ]]>
+            </line>
+            <line>
+              <![CDATA[Flight No :: 6E2174  ]]>
+            </line>
+            <line>
+              <![CDATA[Departure Time:: 17:40  ]]>
+            </line>
+            <line>
+              <![CDATA[Fare:: 4578  ]]>
+            </line>
+            <line>
+              <![CDATA[Flight No :: I5996  ]]>
+            </line>
+            <line>
+              <![CDATA[Departure Time:: 19:30  ]]>
+            </line>
+            <line>
+              <![CDATA[Fare:: 4578  ]]>
+            </line>
+            <line>
+              <![CDATA[Flight No :: I5925  ]]>
+            </line>
+            <line>
+              <![CDATA[Departure Time:: 04:55  ]]>
+            </line>
+            <line>
+              <![CDATA[Fare:: 4578  ]]>
+            </line>
+            <line>
+              <![CDATA[Flight No :: 6E735  ]]>
+            </line>
+            <line>
+              <![CDATA[Departure Time:: 19:20  ]]>
+            </line>
+            <line>
+              <![CDATA[Fare:: 4578  ]]>
+            </line>
+            <line>
+              <![CDATA[Flight No :: 6E5413  ]]>
+            </line>
+            <line>
+              <![CDATA[Departure Time:: 20:05  ]]>
+            </line>
+            <line>
+              <![CDATA[Fare:: 4578  ]]>
+            </line>
+            <line>
+              <![CDATA[Flight No :: 6E2186  ]]>
+            </line>
+            <line>
+              <![CDATA[Departure Time:: 07:50  ]]>
+            </line>
+            <line>
+              <![CDATA[Fare:: 4578  ]]>
+            </line>
+            <line>
+              <![CDATA[Flight No :: SG8906  ]]>
+            </line>
+            <line>
+              <![CDATA[Departure Time:: 23:55  ]]>
+            </line>
+            <line>
+              <![CDATA[Fare:: 4578  ]]>
+            </line>
+            <line>
+              <![CDATA[Flight No :: 6E5161  ]]>
+            </line>
+            <line>
+              <![CDATA[Departure Time:: 16:15  ]]>
+            </line>
+            <line>
+              <![CDATA[Fare:: 4578  ]]>
+            </line>
+            <line>
+              <![CDATA[Flight No :: 6E5708  ]]>
+            </line>
+            <line>
+              <![CDATA[Departure Time:: 06:35  ]]>
+            </line>
+            <line>
+              <![CDATA[Fare:: 4578  ]]>
+            </line>
+            <line>
+              <![CDATA[Flight No :: SG198  ]]>
+            </line>
+            <line>
+              <![CDATA[Departure Time:: 20:25  ]]>
+            </line>
+            <line>
+              <![CDATA[Fare:: 4578  ]]>
+            </line>
+            <line>
+              <![CDATA[Flight No :: 6E2018  ]]>
+            </line>
+            <line>
+              <![CDATA[Departure Time:: 05:10  ]]>
+            </line>
+            <line>
+              <![CDATA[Fare:: 4578  ]]>
+            </line>
+            <line>
+              <![CDATA[Flight No :: SG8192  ]]>
+            </line>
+            <line>
+              <![CDATA[Departure Time:: 09:20  ]]>
+            </line>
+            <line>
+              <![CDATA[Fare:: 4578  ]]>
+            </line>
+            <line>
+              <![CDATA[Flight No :: G8116  ]]>
+            </line>
+            <line>
+              <![CDATA[Departure Time:: 07:45  ]]>
+            </line>
+            <line>
+              <![CDATA[Fare:: 5812  ]]>
+            </line>
+            <line>
+              <![CDATA[Flight No :: I5721  ]]>
+            </line>
+            <line>
+              <![CDATA[Departure Time:: 20:45  ]]>
+            </line>
+            <line>
+              <![CDATA[Fare:: 3570  ]]>
+            </line>
+            <line>
+              <![CDATA[Flight No :: I5740  ]]>
+            </line>
+            <line>
+              <![CDATA[Departure Time:: 07:55  ]]>
+            </line>
+            <line>
+              <![CDATA[Fare:: 3570  ]]>
+            </line>
+            <line>
+              <![CDATA[Flight No :: 6E5174  ]]>
+            </line>
+            <line>
+              <![CDATA[Departure Time:: 05:15  ]]>
+            </line>
+            <line>
+              <![CDATA[Fare:: 5677  ]]>
+            </line>
+            <line>
+              <![CDATA[Flight No :: 6E781  ]]>
+            </line>
+            <line>
+              <![CDATA[Departure Time:: 16:30  ]]>
+            </line>
+            <line>
+              <![CDATA[Fare:: 5677  ]]>
+            </line>
+            <line>
+              <![CDATA[Flight No :: 6E6233  ]]>
+            </line>
+            <line>
+              <![CDATA[Departure Time:: 02:25  ]]>
+            </line>
+            <line>
+              <![CDATA[Fare:: 5677  ]]>
+            </line>
+            <line>
+              <![CDATA[Flight No :: 6E798  ]]>
+            </line>
+            <line>
+              <![CDATA[Departure Time:: 23:15  ]]>
+            </line>
+            <line>
+              <![CDATA[Fare:: 5677  ]]>
+            </line>
+            <line>
+              <![CDATA[Flight No :: 6E2015  ]]>
+            </line>
+            <line>
+              <![CDATA[Departure Time:: 19:55  ]]>
+            </line>
+            <line>
+              <![CDATA[Fare:: 5677  ]]>
+            </line>
+            <line>
+              <![CDATA[Flight No :: 6E681  ]]>
+            </line>
+            <line>
+              <![CDATA[Departure Time:: 13:00  ]]>
+            </line>
+            <line>
+              <![CDATA[Fare:: 5677  ]]>
+            </line>
+            <line>
+              <![CDATA[Flight No :: 6E772  ]]>
+            </line>
+            <line>
+              <![CDATA[Departure Time:: 07:10  ]]>
+            </line>
+            <line>
+              <![CDATA[Fare:: 5677  ]]>
+            </line>
+            <line>
+              <![CDATA[Flight No :: 6E2637  ]]>
+            </line>
+            <line>
+              <![CDATA[Departure Time:: 18:45  ]]>
+            </line>
+            <line>
+              <![CDATA[Fare:: 5677  ]]>
+            </line>
+            <line>
+              <![CDATA[Flight No :: SG8191  ]]>
+            </line>
+            <line>
+              <![CDATA[Departure Time:: 06:30  ]]>
+            </line>
+            <line>
+              <![CDATA[Fare:: 5678  ]]>
+            </line>
+            <line>
+              <![CDATA[Flight No :: I5784  ]]>
+            </line>
+            <line>
+              <![CDATA[Departure Time:: 16:05  ]]>
+            </line>
+            <line>
+              <![CDATA[Fare:: 5678  ]]>
+            </line>
+            <line>
+              <![CDATA[Flight No :: I5926  ]]>
+            </line>
+            <line>
+              <![CDATA[Departure Time:: 09:15  ]]>
+            </line>
+            <line>
+              <![CDATA[Fare:: 5678  ]]>
+            </line>
+            <line>
+              <![CDATA[Flight No :: SG8905  ]]>
+            </line>
+            <line>
+              <![CDATA[Departure Time:: 20:35  ]]>
+            </line>
+            <line>
+              <![CDATA[Fare:: 5678  ]]>
+            </line>
+            <line>
+              <![CDATA[Flight No :: G8113  ]]>
+            </line>
+            <line>
+              <![CDATA[Departure Time:: 05:50  ]]>
+            </line>
+            <line>
+              <![CDATA[Fare:: 5678  ]]>
+            </line>
+            <line>
+              <![CDATA[Flight No :: SG143  ]]>
+            </line>
+            <line>
+              <![CDATA[Departure Time:: 21:45  ]]>
+            </line>
+            <line>
+              <![CDATA[Fare:: 5678  ]]>
+            </line>
+            <line>
+              <![CDATA[Flight No :: SG197  ]]>
+            </line>
+            <line>
+              <![CDATA[Departure Time:: 16:35  ]]>
+            </line>
+            <line>
+              <![CDATA[Fare:: 5678  ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- flightSearch -->
+      </class> <!-- com.ixigo.TestScripts.FlightSearch -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
